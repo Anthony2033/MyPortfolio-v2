@@ -8,10 +8,10 @@ export default {
   theme: {
     extend: {
       colors: { // Your existing colors
-        'primary-bg': '#1a1a2e',
-        'secondary-bg': '#16213e',
-        'accent-1': '#00f5c3',
-        'accent-2': '#e94560',
+        'primary-bg': '#32012F',
+        'secondary-bg': '#524C42',
+        'accent-1': '#FB773C',
+        'accent-2': '#EB3678',
         'text-primary': '#e0e0e0',
         'text-secondary': '#a0a0a0',
       },

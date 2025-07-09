@@ -2,35 +2,26 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaPhone, FaReact, FaNodeJs, FaDatabas
 import { SiExpress, SiMongodb, SiFirebase, SiTailwindcss, SiJavascript, SiTypescript, SiCplusplus, SiPython } from 'react-icons/si'; // More specific tech icons
 
 export const personalInfo = {
-  name: "Aditi Arya",
+  name: "Anthony Colangelo",
   title: "Full Stack Developer",
-  email: "aditiarya1511@gmail.com",
-  linkedin: "https://linkedin.com/in/aditiarya37",
-  github: "https://github.com/aditiarya37",
-  resumeLink: "/AditiAryaResume.pdf", // Make sure your resume is in public/
+  email: "anthonyc2366@gmail.com",
+  linkedin: "https://www.linkedin.com/in/anthony-colangelo-625794277/",
+  github: "https://github.com/Anthony2033",
+  resumeLink: "/resume.pdf", // Make sure your resume is in public/
   bio: "Innovative Full Stack Developer passionate about creating seamless and impactful web solutions. Eager to leverage modern technologies to solve real-world problems and contribute to dynamic team environments.",
   shortBio: "I build things for the web." // For Hero section
 };
 
+
+
+
+
 export const education = [
   {
-    institution: "Chandigarh University",
-    degree: "Bachelor of Engineering in Computer Science",
-    duration: "Aug 2023 – Present",
-    score: "CGPA: 8.17/10",
-  },
-  {
-    institution: "Namdev Public School",
-    degree: "Class 12th CBSE",
-    duration: "April 2022 - May 2023",
-    score: "96.5%",
-  },
-  {
-    institution: "Namdev Public School",
-    degree: "Class 10th CBSE",
-    duration: "April 2020 - May 2021",
-    score: "95.17%",
-  },
+    institution: "Florida State University",
+    degree: "Bachelor of Science in Computer Science",
+    duration: "Aug 2020 – Apr 2024"
+  }
 ];
 
 export const projects = [
