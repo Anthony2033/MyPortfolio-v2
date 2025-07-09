@@ -11,7 +11,7 @@ const Footer = () => {
           Designed & Built with <FaHeart className="inline text-accent-2" /> by {personalInfo.name}
         </p>
         <p className="text-xs text-text-secondary font-mono mt-1">
-          © {currentYear} Aditi Arya. All rights reserved.
+          © {currentYear} Anthony Colangelo. All rights reserved.
         </p>
       </div>
     </footer>
