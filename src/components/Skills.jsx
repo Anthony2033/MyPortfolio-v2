@@ -32,7 +32,7 @@ const Skills = () => {
   return (
     <section id="skills" className="py-20 bg-primary-bg">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <SectionTitle id="skills-title">My Tech Arsenal</SectionTitle>
+        <SectionTitle id="skills-title">My Languages and Tools.</SectionTitle>
         
         <div className="space-y-12">
           {/* Languages */}
