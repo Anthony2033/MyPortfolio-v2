@@ -9,7 +9,7 @@ export default {
     extend: {
       colors: { // Your existing colors
         'primary-bg': '#32012F',
-        'secondary-bg': '#524C42',
+        'secondary-bg': '#1a2c38',
         'accent-1': '#FB773C',
         'accent-2': '#EB3678',
         'text-primary': '#e0e0e0',
