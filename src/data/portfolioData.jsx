@@ -8,7 +8,7 @@ export const personalInfo = {
   linkedin: "https://www.linkedin.com/in/anthony-colangelo-625794277/",
   github: "https://github.com/Anthony2033",
   resumeLink: "/resume.pdf", // Make sure your resume is in public/
-  bio: "Innovative Full Stack Developer passionate about creating seamless and impactful web solutions. Eager to leverage modern technologies to solve real-world problems and contribute to dynamic team environments.",
+  bio: "I'm a Full Stack Developer with a passion for tackling Automation, impactful products, and tricky problems.",
   shortBio: "I build things for the web." // For Hero section
 };
 

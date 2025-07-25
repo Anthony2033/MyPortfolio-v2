@@ -28,13 +28,11 @@ const Hero = () => {
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-text-secondary mb-6">
             <TypeAnimation
               sequence={[
-                'I build things for the web.',
-                2000,
                 'I am a Full Stack Developer.',
                 2000,
-                'I love to code.',
+                'I build things fast.',
                 2000,
-                'I solve problems.',
+                'I love a challenge.',
                 2000,
               ]}
               wrapper="span"

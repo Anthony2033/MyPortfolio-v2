@@ -28,13 +28,13 @@ const Contact = () => {
           transition={{ duration: 0.6 }}
         >
           <p className="text-lg text-text-secondary mb-8 leading-relaxed">
-            I'm currently open to new opportunities and collaborations. Whether you have a project in mind, a question, or just want to say hi, my inbox is always open. I'll try my best to get back to you!
+            I'm currently open to new opportunities and collaborations. Whether you have a project in mind or a question my inbox is always open.
           </p>
           <a
             href={`mailto:${personalInfo.email}`}
             className="inline-block px-10 py-4 font-mono text-lg bg-accent-1 text-primary-bg rounded-md hover:bg-opacity-80 transition-all duration-300 shadow-lg hover:shadow-accent-1/30"
           >
-            Say Hello
+            Contact Me
           </a>
 
           <div className="mt-12 flex justify-center space-x-6">

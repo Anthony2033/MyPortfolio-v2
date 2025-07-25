@@ -37,7 +37,7 @@ const About = () => {
         </motion.div>
 
         <h3 className="text-2xl font-semibold text-center text-accent-1 mb-8 font-mono">Education</h3>
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="flex flex-col items-center gap-8">
           {education.map((edu, index) => (
             <motion.div
               key={index}
